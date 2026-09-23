@@ -14,15 +14,19 @@ Core Requirements
 • Staff can update rental status such as Booked, Active, Returned or Cancelled.
 • Returned vehicles should become available again when appropriate.
 
-<img width="630" height="546" alt="image" src="https://github.com/user-attachments/assets/0ed41c8d-b05e-481f-8c71-6f4e1f9aa05a" />
-<img width="641" height="584" alt="image" src="https://github.com/user-attachments/assets/dd38dbb5-5e46-41a4-af06-966d8b06d30f" />
-<img width="618" height="397" alt="image" src="https://github.com/user-attachments/assets/9673fdc3-c133-4575-a37e-780694f4b522" />
-<img width="637" height="568" alt="image" src="https://github.com/user-attachments/assets/c54f01a5-5899-440f-9477-80e5e2cbba75" />
-<img width="605" height="536" alt="image" src="https://github.com/user-attachments/assets/6f9d7ece-fd11-4cf3-916e-6eb686f1dac4" />
-<img width="634" height="592" alt="image" src="https://github.com/user-attachments/assets/34f8ad86-fb21-41e8-bd3c-aad675617da5" />
-<img width="826" height="573" alt="image" src="https://github.com/user-attachments/assets/d06e81ff-2ce7-4d75-a759-5e0737a3952f" />
-<img width="803" height="517" alt="image" src="https://github.com/user-attachments/assets/87d44caa-3032-4cf8-a6e1-adc49c0358b7" />
-<img width="441" height="562" alt="image" src="https://github.com/user-attachments/assets/8b07f5e3-c302-4964-8b0e-75162ace7a7f" />
-<img width="842" height="529" alt="image" src="https://github.com/user-attachments/assets/1b54c27e-c374-43c0-b1e0-dc00233f7427" />
-<img width="825" height="375" alt="image" src="https://github.com/user-attachments/assets/5880839e-ccf8-419a-b72a-ad45a2046404" />
-
+SCREENSHOT LINK
+https://drive.google.com/file/d/19HEH4xdGgpIYwi6vvzthsxhJWNQ9iHm2/view?usp=drivesdk
+https://drive.google.com/file/d/1tueHb4CHBTShfmTffDHygEsko5Z-6bsP/view?usp=drivesdk
+https://drive.google.com/file/d/1Hot--MHicilLJq2_-QQyBMWWg7HSiVaq/view?usp=drivesdk
+https://drive.google.com/file/d/1rjZmwppD3RCb-iftBtD9eoTR6Ob0Zcjh/view?usp=drivesdk
+https://drive.google.com/file/d/1EpwcZ8iAEOJYcofhQjxHQz00FJgPB9u3/view?usp=drivesdk
+https://drive.google.com/file/d/17C8l5pxdN07QKuUXT-83mKcLWkF9ZhJA/view?usp=drivesdk
+https://drive.google.com/file/d/12o1SrsiABHqM8F2xNEKYdWtSB61tziQC/view?usp=drivesdk
+https://drive.google.com/file/d/17qe9ov_3M39NIXqr62rkKlsdYQVEx9fq/view?usp=drivesdk
+https://drive.google.com/file/d/12y0htXTWvspCmIDr66nEXxa-Q6jKg-Rb/view?usp=drivesdk
+https://drive.google.com/file/d/1xLvDlYoG7H8pyHggWFMSDc17IdXOspjF/view?usp=drivesdk
+https://drive.google.com/file/d/19_urXnIlboPEfr_UFtMKjqZN2UKnQbVC/view?usp=drivesdk
+https://drive.google.com/file/d/1NW_yVMmzglD6E-G0xxtw7zeDvTJMr31C/view?usp=drivesdk
+https://drive.google.com/file/d/1UI4rEJI7d5JlZks12n6ZaMINsJK-7nm7/view?usp=drivesdk
+https://drive.google.com/file/d/1SURz8TcDy8hAEsRstK64K7jcJqJcShTC/view?usp=drivesdk
+https://drive.google.com/file/d/1JnXQVjXozA0GkRVIl9jkw5g4enimGqi7/view?usp=drivesdk
