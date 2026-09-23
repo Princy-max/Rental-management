@@ -1,0 +1,6 @@
+{
+  "name": "AutoFleet - Vehicle Rental Management System",
+  "description": "Modern full-stack vehicle rental management system featuring AI-powered smart vehicle recommendations, role-based workflows for Admins, Staff, and Customers, and conflict-free booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
